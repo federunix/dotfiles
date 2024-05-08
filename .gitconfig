@@ -1,0 +1,7 @@
+[core]
+  excludesFile = /home/fede/.gitignore
+[user]
+	email = federico.annunziata@
+	name = Annunziata, Federico
+[push]
+	default = simple
